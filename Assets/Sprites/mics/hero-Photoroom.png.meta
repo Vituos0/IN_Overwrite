@@ -1,0 +1,7567 @@
+fileFormatVersion: 2
+guid: e9c6a07f0baa4a342ba9d00f82467091
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hero-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1281
+        width: 81
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716b0dd96579200499a980ec35aa8500
+      internalID: -2073116781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1280
+        width: 168
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08505b68dab27254588d486c29d5952c
+      internalID: 1698211662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1280
+        width: 196
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3556f08d8766624a86fc80a8aea4242
+      internalID: 1595738900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1280
+        width: 242
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442687efc48922f44bf69de0902d6dd6
+      internalID: 1351912309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 996
+        width: 258
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43dc183d892bb1459c118d9ad6487b8
+      internalID: -1732378446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ilde_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1141
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f6984918aaef4c94ae1f0b2ca7c4e
+      internalID: 512635982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ilde_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1147
+        width: 86
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078691938eefdac4da4641fe2650dd63
+      internalID: 973284403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ilde_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1147
+        width: 86
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b39ba84d4a93942999b5a0803cc27c
+      internalID: 450138305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ilde_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1147
+        width: 87
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d352bdf636bffb244bb69025bb86447a
+      internalID: -999711243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_down_1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1147
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a3051d814750545a243bfc6275203a
+      internalID: 1955937228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_down_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1147
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ad8227c68eceb4aa087f6701f39066
+      internalID: -190601540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_down_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1147
+        width: 88
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f956cf4ff4e82914aa816fe516c27c36
+      internalID: -433601105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_down_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1147
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee4853560e5d14a8463c5d62327b76
+      internalID: 399383131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_down_5
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1147
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9e505a6fe2af42b6d3ccb2930f106
+      internalID: 1261418358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1146
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2cd3d6c0030984daf143925e137046
+      internalID: -644293779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1267
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9abd732114594d9764ba5e6c5866e
+      internalID: 1230403348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1147
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc1c723486cdb24a98c4dd0fe2c44c4
+      internalID: 1088357381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1144
+        width: 93
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c065a7e4462abb4894734ef8372c099
+      internalID: -485964751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1147
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e31201c7490c548a7ed924b82fcb89
+      internalID: -961426947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1144
+        width: 119
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b251ad12d209f614093f2c780e164a66
+      internalID: -263547038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1242
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb527e163726ef64887bc394cb140ed2
+      internalID: 1135106616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1221
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5442c5556021943952d510340a5e58
+      internalID: -873243059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1148
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46317329086d5a04fb6d3eb2a16ea15b
+      internalID: -1105168283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1148
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b59fba3c5fab478a0abb05667157f
+      internalID: 1686585696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1161
+        width: 6
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7853ffee5f49a41499c829c65d0d980b
+      internalID: -118610602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1143
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b5c0240f85f348a66f7a0b8aa5c96
+      internalID: 685944523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1143
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaff9b96d603064e993527e57f7f4cc
+      internalID: -274464546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1143
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58ebb3f679fcee4ca35703454f1b0f2
+      internalID: 159841248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1143
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea1fe5cbb4baae47a500c8358e5ae3e
+      internalID: 1210126685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3120068972aeaaa4a96b8d2e8fe9b5f4
+      internalID: 1918133242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1143
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b135bec9937a445419309f74cbd8f013
+      internalID: -1871437809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1143
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c6a172a7aad1145a81a12327ae87d0
+      internalID: -636741010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5358e531ad1164fae87a8abf2c6371
+      internalID: 404318869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1143
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694d8c874cb671f428cd5a9c6ca40d56
+      internalID: -146702314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1011
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf1f276d272f6940a1a993507614643
+      internalID: 1596482843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1011
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d791e095ee3fd64691f01ba7e07af97
+      internalID: -620512743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1011
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60c8bdb83e677343bd1e3238de69ff1
+      internalID: 701274414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1011
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512dda08cb4ad3e409041839259e195c
+      internalID: -2061434793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1014
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c262b7b9fb9baa44b776d977b845ea3
+      internalID: 2062426756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1013
+        width: 71
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab60052e4eb40bd4a8ebee018503b2d6
+      internalID: 2234972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1013
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6887f96b9834dda4aa296ab07b83a75c
+      internalID: -1522591030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1018
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bc3078bac9c994e9995db13701d415
+      internalID: -1689285040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1013
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d76820e2cd974f8f9a659bfebb67b
+      internalID: -1927054258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1008
+        width: 128
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ae60bf0fa5ee4f83fc92fdd1edde3
+      internalID: -1846861362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1129
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d273b8b991bdbdf47b4bf99d1d79723d
+      internalID: -1323103574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1013
+        width: 64
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00da452b315fc54f918ee2e0c995644
+      internalID: -757479503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1013
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c84eda50c833849a96cc5f8ff3e7fe
+      internalID: 1160517135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1009
+        width: 16
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a67aa822ff30664dbe46f6d3897c885
+      internalID: 1103040658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1013
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3583bdddde3998b48877041b004d6509
+      internalID: 713893202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1106
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc7432317711814eb50ef88c25e86ce
+      internalID: 1581616565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1014
+        width: 91
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71c48b041a3ea488272597477d9b8b
+      internalID: -716388688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1088
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536165e5262bb324f86ce69541fd44eb
+      internalID: -1979146804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1011
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c528ddd4314b7c248b49792f3c7b2a5c
+      internalID: 928374860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1063
+        width: 4
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec180901178b045b6d0ed92dc745c1
+      internalID: -1688747732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1011
+        width: 105
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb6dcbd2d39b9e4ebd91daebb2a90d4
+      internalID: -1024961239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1036
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6325f6f756e708840a9aa5ac0192f68b
+      internalID: -1932709469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1008
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd652a1b492be8443b2f5ce905471668
+      internalID: 683133400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1009
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c08f0dc54bf38949babb6c1779685cf
+      internalID: 715305967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1009
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f6e7ba063e4e34487569ade426e748
+      internalID: -1636123888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1009
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bacf26ff30d844ba5196614de7e685
+      internalID: -542067777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1009
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64cb28fe05a4c746af0c1d6173fc126
+      internalID: -1643430665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1008
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e6cf9e9b988b48bfbe7c65758f2d8
+      internalID: 652514027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1009
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16c8adb7683f1445afd953921045410
+      internalID: -1153133392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 983
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06949c8c911595349a2e578969605104
+      internalID: 745920394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1009
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f731a4184af2684b9c3abd4113265da
+      internalID: -1463950215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1009
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a099884602f1ca49aa495d29b3ed4be
+      internalID: 1421227263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_122
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 974
+        width: 5
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f951cd52e3b07f54bbc0e76b81376fd7
+      internalID: 1043675218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 979
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48b2eb12d060ab448eadc0313bcd777
+      internalID: -1944068504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_124
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 875
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99105c9f6bdf0e4dbb542de990f539f
+      internalID: 34912420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_125
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1001
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea38ac9f4d740d4fb87a21dc7fac094
+      internalID: 553100899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 896
+        width: 7
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c519ec150b294f8b3faeb5744e7a9
+      internalID: -2083032201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1000
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81618d24ad5375e408387dbdbfc96f17
+      internalID: -1221604791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_128
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1001
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe607d0c045b46542ab790547033d37c
+      internalID: 812094182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 921
+        width: 10
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473cb38084ef8a8448aa0f2a09844d86
+      internalID: 2135208520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 906
+        width: 5
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5b1a77d239bd746b48ce57467f6af5
+      internalID: -157111295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 950
+        width: 11
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a7a0d3e8b77c247bdf0e855678a0e5
+      internalID: 1957843087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_132
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 877
+        width: 86
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a130974c00f8fe4468247d7d1fa62c9e
+      internalID: 833947981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_133
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 877
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de96edcac84d49469a15665fd0db143
+      internalID: 1943318918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 877
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e360c03dd80a3848b25ebe292c36231
+      internalID: 1982545280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_135
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 879
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d14f7f93ba65649b2ba709f66dc8e0
+      internalID: -535190520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_136
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 877
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f1e9fa584f4ea4bb52e94c82dad93b
+      internalID: 509710058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 874
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297aa297671f07f459ed41caa1e7cd69
+      internalID: -1267656385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_138
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 875
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43b08f52d89e44489dfae7b0f6c3813
+      internalID: 2062958411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_140
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 878
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d617275efad68b34d8eb39c5f274e44d
+      internalID: 1070133544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 874
+        width: 105
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c53012bdf488144934807ae350c5ef
+      internalID: 1912046662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 875
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60964370ec9c57c4fb95fa05f41e3d35
+      internalID: -1961785092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 966
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c64910201f8f5a499f67d437ddbad62
+      internalID: -745114114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_145
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 874
+        width: 80
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ccdf541c8378f49bd5ad0c0eb4ed8f
+      internalID: 678522503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_146
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 877
+        width: 78
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b5797234b8145449ebb0b606e039f3
+      internalID: -1529577976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_147
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 875
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27e70183c498a7499580a6f5fb27d32
+      internalID: -144148195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_148
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 875
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ed69b1c1ff5c54cb9406d9148c06f3
+      internalID: 866317305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_149
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 875
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24234703ec2ea04eabdee7575b40f2f
+      internalID: -1536198783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_150
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 877
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5439135c851e3bb46be438d3cae2d895
+      internalID: 822584891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_151
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 877
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d047a832fe275ed4fbc4676fb1aea5cc
+      internalID: -540844698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_152
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 909
+        width: 9
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01d1fd0d0990041b9504e116b18cc9
+      internalID: -1429374131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_153
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 891
+        width: 6
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618ce24b698eb5d4d88e3f336a0ae125
+      internalID: -587689977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_154
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 916
+        width: 4
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15be756094405a4ba22cac05e6ab528
+      internalID: 1658563800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_155
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 902
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f320cdfed287cf47be5d665b3bc76b3
+      internalID: -2132106146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_156
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 871
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d746c7a8a5b338459053994d7a12292
+      internalID: 457875496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_157
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 871
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4269817bfbf75b24e9f10aa96fc22c9a
+      internalID: -374600757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_160
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 832
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a90b67279c8c714db78da2cdb724b1c
+      internalID: 249358255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 698
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f62bc46f25bc40a1f9bd10b86d769
+      internalID: -238890095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 698
+        width: 95
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ed3da355776434f951576f036a9d3a
+      internalID: -1592256136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 697
+        width: 101
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a37d4a1476ed0f4995e8ad016359ed0
+      internalID: -714574888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_4
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 702
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adb301944b0ff444900a84953c52d4e
+      internalID: -992635875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 697
+        width: 107
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ead16407de5a4e82047070fa6691f
+      internalID: 1808224378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 686
+        width: 125
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8311c5fe01184459931fcfb6f0fd63
+      internalID: 456232800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 694
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25a274d19ca07f45ac2faedd9d0846c
+      internalID: -1699583810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 694
+        width: 115
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ecc7a7dffa43844b2068aefeb9f789
+      internalID: -1320634605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_171
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 693
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c5ee2abd0916408f7da7a9628dd9a
+      internalID: -1409887782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_172
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 788
+        width: 4
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee094d14b0f12b448ffa199db34777f
+      internalID: 1563847370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_173
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 748
+        width: 4
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a488b635233cb048a43c06d6f88dd87
+      internalID: -1889296119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_174
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 697
+        width: 112
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e260268a3de224ab82aa25aee7ca7b
+      internalID: -240913249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_175
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 761
+        width: 5
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516c73edc210fc940b1ca9665f09a33b
+      internalID: -515167264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_176
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 693
+        width: 15
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0c39d139da4aa49bcbdbdadc19edf6
+      internalID: 1734963452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_177
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 697
+        width: 111
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1963e8bf68379b4c8aab132aa83a70d
+      internalID: -1801528090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_178
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 693
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07951567e0683174e8b3a40de9904dd6
+      internalID: 1367143062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_179
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 693
+        width: 104
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c83ccbed2aa074cbdc4f7484774219
+      internalID: 1261599630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_180
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 693
+        width: 10
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d340d1d3d22b84eb58725ad2d59c65
+      internalID: -1586576366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_181
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 698
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921ab93d55d736343a1c7d26effcbd3c
+      internalID: 1940454265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_182
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 697
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bed653122be9f741a30ea91ed8ad2b3
+      internalID: -544568777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_186
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 693
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6857bcec2c15dd4988ad50179fb60b7
+      internalID: -1990857884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_187
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 721
+        width: 5
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbfc8b63cada464a87b64d1d8fc74e3
+      internalID: 2036809698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_188
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 710
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26c900e05e426141806dab9a6e83ebd
+      internalID: -8280215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_194
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 559
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d22e3880ca254e9bcd033fcbc982f
+      internalID: 1418323265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_198
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 693
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4882170182f91db44a75c82d42860bf6
+      internalID: 959672972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_199
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 693
+        width: 54
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e98f2e517efd443b696983cf3cdcc8
+      internalID: -46048723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_200
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 560
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26726f8529672e4d9571faa7af22159
+      internalID: -1065699355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_201
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 649
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceb1d85600214a4cb464d53dcb7a5ed
+      internalID: -1899135176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_202
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 693
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ece6e790557bb4d96aba629d3db7a4
+      internalID: 673017548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_203
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 691
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ca854a3539d24889f243f2757e296
+      internalID: -2050068956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 120
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6064531, y: 0.42959043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f64c8344f2ee04a88288a8e9ecf99e
+      internalID: -1118612529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_205
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 560
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7743bd183c244942b4286f12aef211f
+      internalID: 1232653266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_206
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 562
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a8fcca2fec32b4c9d982bf967ca561
+      internalID: 754160642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_207
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 566
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18cd3b59f6445947b9fefca0dd552fb
+      internalID: 1738220801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_210
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 555
+        width: 102
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410b843e3a6855e46b354243d7454566
+      internalID: -780329196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_211
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 559
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4443e8561c6b8444961f93c1a1230c9
+      internalID: -142130491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_213
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 559
+        width: 115
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c3ad562b35f146aaffe6e08cf43e1
+      internalID: -1734459985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_214
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 559
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b60a79ed27d1a4eb1bfedd18786bf2
+      internalID: 1736067870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_215
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 604
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8508eee52f400614dab73b29e4d7455f
+      internalID: -2030667475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_216
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 648
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472fee3cbc21beb4e8afe92c5ecb87f6
+      internalID: 1077525228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_217
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 559
+        width: 122
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436118c6824623c4b95487004d9d60b4
+      internalID: -1955950961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_218
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 574
+        width: 7
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a946422938ae934388abb4eadb38711
+      internalID: -50311534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_219
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 572
+        width: 16
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e7901b91ce6ee4396f24610509aad6
+      internalID: -1658904733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_220
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 555
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d760b0429df44faa0538d5534a289
+      internalID: -1879289770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_221
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 560
+        width: 98
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f206f6b9a9e549a41c77a02063b21
+      internalID: -1599179453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_222
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 554
+        width: 8
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4570b70a5c83a4f9ebfa7ba746c94d
+      internalID: -1348679596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_223
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 636
+        width: 7
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e537db137da2f7545bcf03ba52c1d09c
+      internalID: 1709233133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_224
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 560
+        width: 99
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990dd075c5adff4a95e56d9b52e835c
+      internalID: -1982227432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_225
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 656
+        width: 4
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3c9cc27fc6564fad081213326b115
+      internalID: -1116495678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_226
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 636
+        width: 6
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b5d3f1fa333c947beed1867909ba02
+      internalID: 738967673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_227
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 559
+        width: 97
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4de843763d4d4c868deb9aa2a7503
+      internalID: 1999004314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_230
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 574
+        width: 4
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610f67d5a4cd4b4f81395b5c5af4ad2
+      internalID: 818749293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_231
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 575
+        width: 5
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec33d459d43a4a45ae057999231f065
+      internalID: 820098350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_232
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 611
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c514fb548f6a3e469fb6da3c1623bb1
+      internalID: 1595339101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_233
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 573
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc01317974b09844821885eed4b5aeb
+      internalID: 910156828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_234
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 554
+        width: 42
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7914a847aeedc4dbf4e9d1bf6b8ed8
+      internalID: -226467467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_250
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 554
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc4a6a653ea48346858f27c554cbfc9
+      internalID: 432691836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_251
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 554
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0023bb978c4d93a46a59b7a6d0b69bee
+      internalID: 84073019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_252
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 554
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747fa24d880001448aca242de059a29d
+      internalID: 685634141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_253
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 554
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fed85a461e2e4680c893b1ddcc0f5
+      internalID: 1192576280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_254
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 554
+        width: 39
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b280cc27f43ef57419d3dbe0ef6cf40d
+      internalID: -314410941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_255
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 553
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783b30e7eee37e4b9b4c2e4fb4b5fe5
+      internalID: 1323100023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_256
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 554
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5971c480ea5f9d448a37fe3def45243d
+      internalID: -1184885599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_257
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 554
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b92cfab4f1d93d43bbd16c176bb742d
+      internalID: -283046218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_258
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 554
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aa7aacd5cc35546851d316fc37ca45
+      internalID: 1270842756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_260
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 530
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6ee9fa79a5b6f46a83d4cde67bc01c
+      internalID: 403116562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_261
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 421
+        width: 138
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d0b9c1cb3d8994db38aae346ef9b7f
+      internalID: 1936297303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_265
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 421
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901910e9bc60cc748b6f092ff5587bff
+      internalID: 186651225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_269
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 525
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f55a887a38cd1c4d8125f1e2d14786c
+      internalID: 1510155874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_270
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 510
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3410256d1e60cbe4daa912a0c2f54515
+      internalID: 1161054763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_271
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 454
+        width: 11
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b877f04907ad44846429974438976
+      internalID: -2131459671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_272
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 480
+        width: 4
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae8e475db02244469a25e18f39a3ca8
+      internalID: -465278535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_273
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 514
+        width: 5
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23dfcbb14a0dc9439e4a89d1055658e
+      internalID: 1038409433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_274
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 418
+        width: 12
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116205e3a4815dd4f900b17474a601df
+      internalID: 556420579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_275
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 476
+        width: 5
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053f18a702e32944fbb465fcf9fc4740
+      internalID: -99502436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_276
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 420
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac384c9eb7c59b4ebe519d5d8614d36
+      internalID: -1833798951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_277
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 505
+        width: 4
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199fc6a35f76b1643a3fc67e20ad8308
+      internalID: -1186790867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_278
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 497
+        width: 4
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aefd51ceb8c4b4d8c3c6351d61e6e6
+      internalID: 540132286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_279
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 422
+        width: 97
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a1b8a8880e44d408d1fbb14897cb24
+      internalID: -2052759260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_280
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 422
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b694efa6d2c2244a82ab7df0eb6229
+      internalID: -861072832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_281
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 421
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3287d857e0e37a42bf25650b11f8dd1
+      internalID: -513679454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_282
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 490
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65766538a0b834347bb0f22b2302ff5e
+      internalID: -1682756891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_283
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 421
+        width: 127
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422eda8aea5e264f9ac4107b597c61c
+      internalID: 158919375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_284
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 422
+        width: 147
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22b4c45262ef594d85ea48ebcd17389
+      internalID: 1230570719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_286
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 421
+        width: 132
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d353e2585ca72794cb8657a04ae03247
+      internalID: 1396821364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_288
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 417
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b515c3412e076aa4097ac63b53e47633
+      internalID: 1918901888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_289
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 424
+        width: 103
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856554f981248a147ad73e9c26a214ec
+      internalID: -386706055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_290
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 424
+        width: 112
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762d8254fc9c1034c8865cb5e6f02c9f
+      internalID: 2056441638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_291
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 424
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f803d9658d08c43870bc36a67a344b
+      internalID: 782178685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_292
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 420
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ef0cb23d74b347897c0a1cc14dceb
+      internalID: -177148397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_293
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 420
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf113308b3142e4594b2b3b9a33e676
+      internalID: -1647374931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_294
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 459
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc10cab9623ea54aac9104180bcc0e6
+      internalID: 1432383948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_295
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 436
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6cec9979d2bb9448c5909d46c44ea0
+      internalID: 1142978403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_296
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 442
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa703f98cc0983448178af883d1f5a9
+      internalID: -351424451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_297
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 415
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ce794667b10044bef38412a751e81
+      internalID: 955128782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_298
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 415
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a9a5dcaa13bf64cbe92e8d710a7927
+      internalID: 56018891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_299
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 415
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2053cb803b147c44e9cde0936d5de67d
+      internalID: -99232935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_300
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 415
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498fac2f5c1cc324da6555508ee5e237
+      internalID: -1320723448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_301
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 415
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a6976e32b57d1419b937c642dab323
+      internalID: -555505797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_302
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 416
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125dfb4d8da1f9145926a5824f62bf18
+      internalID: -663124768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_303
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 416
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247088935d2fa647b7b6749be7dab31
+      internalID: -1914221763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_304
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 415
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9fd5713d8f6e04587dd1455e353978
+      internalID: 7839202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_309
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 415
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412c8c50414297a459f53b16f3b438cb
+      internalID: -954471874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_310
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 415
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974571be4c823fe4facc27eb5aa1f5b1
+      internalID: 984747903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_311
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 416
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bbf2faf44133a42a6a53f0f421bad9
+      internalID: 1753105924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_312
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 416
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a80c69c601fcd3459e237a8346b92e5
+      internalID: 2047079430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_313
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 322
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4af8262fbe86b40a1dd83eac3ba06b
+      internalID: 902109632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_314
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 418
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aae3ae5f1807ac4191ba963d3f22e59
+      internalID: -1636043594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_315
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 418
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd11efe19fc70a94eb74a0e25c619cd7
+      internalID: -104539290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_316
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 322
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48be301acf7d3d47a381731dc377028
+      internalID: 1049125219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_317
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 418
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284c0f0a4def6704592e5c23fb72327b
+      internalID: -2127588040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_318
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 418
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc70e98b3d7b24daf5c5fceac094a4
+      internalID: -816406636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_319
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 322
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2a4fc9516bbac40966fa37ab188fee
+      internalID: 1923792363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_320
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 418
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3fc7cba1199e644ba908fd0f5630f1
+      internalID: 1241482415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_321
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 418
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58aeac82ad067140b196ee98755bc71
+      internalID: -1863581898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_322
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 418
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e08a2d567d68a48aa522afb1c01b49
+      internalID: -1732548770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_323
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 418
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d83fc6de20a0f4ab3ffcdda592c0da
+      internalID: 949491042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_324
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 398
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5767e241dd59646acba13c08c9909b
+      internalID: -1037828228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_325
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 370
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a1dca07ab3da14ebbbf3f87d2c1ac3
+      internalID: 359809025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_326
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 295
+        width: 8
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a16a6df95787245b78ae1b81ff05e6
+      internalID: -874281843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_327
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 382
+        width: 5
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fb699d9fdffbb4eb23ed3efabf8392
+      internalID: -14872969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_328
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 278
+        width: 142
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da30354164873a4dba3b3671def5951
+      internalID: 979755337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_332
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 405
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb03d6e1f66bc244bb0334ad31c049aa
+      internalID: -666375009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_333
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 353
+        width: 5
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601b280023954a44e9f4e120cf271ad8
+      internalID: -1373437098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_334
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 373
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc61f8dfcdb4214889d79b47c2b90e1
+      internalID: 256232575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_335
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 366
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c7793aa4948024b9be2385c7041a29
+      internalID: -1007440234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_336
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 343
+        width: 6
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c9c574ab7e99844ac83df9fec5ba7d
+      internalID: 2101999328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_337
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 361
+        width: 6
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff94ecbe2f30834c9d177c8eac516e7
+      internalID: 650166603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_338
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 410
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cb9c0151f9c744aa3fad795a4ecb71
+      internalID: 931568319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_339
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 367
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63d4312ed6e1de4995531aefd08f0fd
+      internalID: 1732894242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_340
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 318
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e473cbadab4f84147908b46c7fbd47f3
+      internalID: 1357148088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_341
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 284
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a941e50f4f1423442a9d2103bf00877d
+      internalID: -1039213273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_342
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 284
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaebb446ab27484694ba4a2756dfe4f
+      internalID: 222324428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_343
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 284
+        width: 106
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fc22c9a187aa344a42b8bfe809e0ac
+      internalID: -845614587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_344
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 284
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db256d14f9a546a4dae37d7b78f7b447
+      internalID: -355655680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_345
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 145
+        width: 119
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac49a015816e14e907aa4132f13d0f
+      internalID: 942757673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_347
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 284
+        width: 134
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de8330d6e146ac469fcfcfd39ea5dbd
+      internalID: 1475398619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_348
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 278
+        width: 119
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51440d305a4432040bc0f9a35f4c3a5e
+      internalID: -2086739983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_349
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 318
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebd5ada905e4c141a182c4b92ec1d42
+      internalID: -1645897267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_350
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 318
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2dd75ded37ed342ba00b0e6570e2b8
+      internalID: -352868548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_351
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 320
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977bbc88b888c1b4aa83e8a241cc52b4
+      internalID: -752038952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_352
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 312
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104c5cfc0b0298e4d97eeaa91df1e17c
+      internalID: 1558360549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_353
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 319
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b8c2717f5244042aa84e580a06e52c
+      internalID: 355247835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_354
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 293
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb05d8647a0fbe943a7588f94eddc126
+      internalID: 1509959032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_355
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 277
+        width: 136
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb6c99102c5ac843a536df514314f32
+      internalID: 747036940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_356
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 137
+        width: 116
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22040246f098374aad37d9d671416a3
+      internalID: 2032167603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_357
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 137
+        width: 126
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e823e134adbf2846937824fd4137587
+      internalID: -409600884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_358
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 143
+        width: 100
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5805cbb5b4d7f44ab31ba8869c0ff2
+      internalID: -1298352718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_359
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 277
+        width: 161
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504bbbf56b209054c91dd331c6f9341e
+      internalID: 248221895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_360
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 278
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890feb684a102f34fa85e1f07c25e95f
+      internalID: -547365472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_361
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 277
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b20f596e4d16945915c4d55553c925
+      internalID: 1323377748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_362
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 278
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca01d06bd6d8dd1458b8f35bd9b3b2d9
+      internalID: 1257767973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_363
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 277
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f57286f2591e684389dbe0c0d45ddd7
+      internalID: 1735555445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_364
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 277
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5895ae8df0d2d7488b939eee28fd344
+      internalID: 798450920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_365
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 277
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53202e53c58fbd34c9602c567dc3213d
+      internalID: -1259099450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_366
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 145
+        width: 100
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c93ff2deb5ef584fba828e6c6c759ba
+      internalID: -996450635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_367
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 277
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b2ce0abe803294b8b8a9e9e8d0ff73
+      internalID: -551307976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_368
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 277
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f6ec3f0aa9ef241942908d357d283c
+      internalID: 609570754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_369
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d8ca5d8186a54469f26856ec2f80fa
+      internalID: 1518403743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_370
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 277
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea72c8dea059914f814e2167243734f
+      internalID: -1740980997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_371
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 144
+        width: 97
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a75103e4a93ce4196e83d089f0cab3
+      internalID: -1913970619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_372
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 277
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021dfdcaa32570448a85390618d717ed
+      internalID: -782783821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_373
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 277
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb44da35e7c7e0e4ebb813ea77bc7379
+      internalID: 507660307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_374
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 145
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a08669a940208409895c3e8e46005c
+      internalID: -1626124692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_375
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 266
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f8670f8d0a1eb4ea79b7d114d9c7ab
+      internalID: -416688842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_376
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 144
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5422ded89746e04d8a1983fa948c154
+      internalID: 617718464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_377
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 217
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37e95d8eaa0b004694ee73800e33879
+      internalID: 744372210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_378
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 144
+        width: 89
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334effcd2e2785e45ac791aba5b70c00
+      internalID: -273470178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_379
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 233
+        width: 5
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460eca3ab530c19478523b06cfe6659d
+      internalID: 868892616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_380
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 219
+        width: 5
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de50923671c44040b0b4ff0da633908
+      internalID: 1521138018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_381
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 144
+        width: 96
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1c510a1f2c3f489e5bbb5e0baf88a
+      internalID: 221538117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_382
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 177
+        width: 7
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe256b921fae5e345ae09b9232f57f9a
+      internalID: 1696689120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_383
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 193
+        width: 6
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ff6e6f3a77034438c7a44477040006
+      internalID: -142563602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_384
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 259
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9783fea7628234d90792cab7d8d0e4
+      internalID: -281076418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_385
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 248
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4beaf4536f0e847b01cba896faa2ae
+      internalID: 2094764516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_386
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 230
+        width: 7
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65245f9c424a5ae46a6eb21165fec397
+      internalID: 513104082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_387
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 145
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb06efb670f7e4408b6cc493919f4ad
+      internalID: -266390520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_388
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 142
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf3cd9f829442d4a9770d985d46c13d
+      internalID: 2059727153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_389
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 144
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f69e9909e62bc746a13884e6d137549
+      internalID: 1450270970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_390
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 179
+        width: 5
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d423a2d82c545964e8a581eefb536495
+      internalID: -126729966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_391
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 182
+        width: 5
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e95c39dfbda32048bc2f92c9ac51eb5
+      internalID: -704268229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_392
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 164
+        width: 10
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4c52c709d3de4abc7f4922ef678cb
+      internalID: -2022897422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_393
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 198
+        width: 4
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f45043fcfcad4478eceac6b87c4403
+      internalID: 491423611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_394
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 189
+        width: 5
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6ca407e3c4f9d4f9db76c4207fee9e
+      internalID: 1074765424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_395
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 138
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2ad82a863d5834c9f2f26d5b498b65
+      internalID: 487335598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_396
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 141
+        width: 123
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed5fab384618d24785ee2a0c4b7e0a9
+      internalID: 377436006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_397
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 138
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa012783eee3de4e8aecc143035ba61
+      internalID: 810264747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_398
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 123
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7238bc78abe72874e80cdab2d20e6aad
+      internalID: -879287734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_399
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 139
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39299805be688b4c8f7d152c69dd1f4
+      internalID: 540920505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_400
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 138
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff2551611e985a4289273741ad1967b
+      internalID: -405150452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_401
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 138
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2050c656574ed4c95ed90a9543e27a
+      internalID: -1762710364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_402
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 138
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfbf7c0486b9ad4282a79544b8f8903
+      internalID: -1478455237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_403
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 138
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cebc2c7d8dd385459847c2e96b8be68
+      internalID: -587584371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_404
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 138
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90e93ba7a66bfe43a888237886b31fc
+      internalID: 1147801204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_405
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 132
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741441ad806f10e41864a9964a7be415
+      internalID: -1499591974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_406
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 138
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da844c9b3e5f541b9f59bb31e43f2f
+      internalID: 1689279140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_407
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 137
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1ea3817e1241489dcf4be28f1a6c6
+      internalID: 783099324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_408
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 137
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2afb31816c2cd146aabea758197e194
+      internalID: 543333845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_409
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 137
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e59ab07e71a8c47905cec394912a0b
+      internalID: 1955748223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_410
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 137
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a2079977fe8b047839a99e604e6c7e
+      internalID: 1898495253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_411
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 137
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8f4fbd1a573c48aa2a9f503389e18
+      internalID: 1025022031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_412
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 137
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38413a2c8775bc74b8fd92d2d5ba0467
+      internalID: -560825947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_413
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 137
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7602c442db37f63458032e0959ac6098
+      internalID: 1766670682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_414
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 26
+        width: 14
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15198c5220eded74bb1ccd9fe40d6abd
+      internalID: -2120417978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_415
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 98
+        width: 5
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ceedafc40df24bbda42dbbd500d2c
+      internalID: 1415657269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_416
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 121
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581b7f927c2187d469c053e7a4cdbdf9
+      internalID: -1138533326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_417
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 47
+        width: 9
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755e6e25427d66f40a5d773867d2d71d
+      internalID: 1834220977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_418
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 117
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d847dc0df2b7b5649b8f6cbc32c49e67
+      internalID: 1295649960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_419
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 104
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9ad1c055e01b4d8a2d00aa1eb867f
+      internalID: 1336306285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_420
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 125
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971714e9118f6b40a10dfdc17cf197b
+      internalID: -1761670322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_421
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 0
+        width: 89
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670976f7dd75c2f418c12203cc15220e
+      internalID: 1569089474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_422
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 129
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ca56c5c3799fd488260400abf1daad
+      internalID: -1470707383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_423
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 122
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f7af5039eb6545ac7eb92b5b5829b
+      internalID: 462476277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_424
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 130
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b02c3ddca3145f40a0ee4c35ea1b98e
+      internalID: 806917088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_425
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 130
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb37f59e80db0c4c82c2a035cf07432
+      internalID: 1180292494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_426
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 121
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de74b7a02098a54cb7e95d01039fc9b
+      internalID: -1984120874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_427
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 119
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbfd1340007b4144a303cc2aa04a6eb
+      internalID: 403229202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_428
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37729781714d3d944a60ed5e9dfaa951
+      internalID: -1726990259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_429
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 99
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c85bbbf7d5f8a4d9cf353e82ab797f
+      internalID: 1673049327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_430
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453b22e68c2ef2a49a1d210180a7b01c
+      internalID: 598521785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_431
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1fffd3dcd8e024cb15dc3947f4ab57
+      internalID: 817882515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_432
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 0
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bbc505e63f52946963e42c677fb6e1
+      internalID: -908983822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_433
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 0
+        width: 126
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c00a94bb93ec44a6f6d1401ebd5da
+      internalID: -302882172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_434
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 120
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d381369db1135e4ab81eaf5cd4e0fb6
+      internalID: -1463782961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_435
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 91
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c4cf5aaf7cd34babc904c7b057b3f
+      internalID: 560696724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_436
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 41
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c4f2de62bb6345964cffdb8a54eb0
+      internalID: -1433405161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_437
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 0
+        width: 118
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f5d9d761f5be6409c55d8058488502
+      internalID: 1820947601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_438
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 0
+        width: 153
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e492d031b9c2e44c9654163b04d7ad9
+      internalID: -1924503620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_439
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 53
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2942c7ac3f0474ab86e9324a0f2af4
+      internalID: 1135407326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_440
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 7
+        width: 135
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b0183de387df438f91117c9158abd
+      internalID: 1615856509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero-Photoroom_441
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 0
+        width: 247
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e4dd6142d49e44dafd8f09ed789fdf
+      internalID: 1691775041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      attack_1: -238890095
+      attack_2: -1592256136
+      attack_3: -714574888
+      attack_4: -992635875
+      attack_5: 1808224378
+      attack_6: 456232800
+      attack_7: -1699583810
+      attack_8: -1320634605
+      hero-Photoroom_0: -2073116781
+      hero-Photoroom_1: 1698211662
+      hero-Photoroom_10: -878885921
+      hero-Photoroom_100: 683133400
+      hero-Photoroom_101: 715305967
+      hero-Photoroom_102: -1636123888
+      hero-Photoroom_103: -542067777
+      hero-Photoroom_104: -1643430665
+      hero-Photoroom_105: 652514027
+      hero-Photoroom_106: -1153133392
+      hero-Photoroom_107: 745920394
+      hero-Photoroom_108: -1463950215
+      hero-Photoroom_109: 1421227263
+      hero-Photoroom_110: -430181993
+      hero-Photoroom_111: 1236796423
+      hero-Photoroom_112: -1338444029
+      hero-Photoroom_113: -1983719307
+      hero-Photoroom_114: 1192573730
+      hero-Photoroom_115: 228202434
+      hero-Photoroom_116: -1607199563
+      hero-Photoroom_117: 1994060438
+      hero-Photoroom_118: 1380300908
+      hero-Photoroom_119: -1131370425
+      hero-Photoroom_120: 188728382
+      hero-Photoroom_121: 1867494332
+      hero-Photoroom_122: 1043675218
+      hero-Photoroom_123: -1944068504
+      hero-Photoroom_124: 34912420
+      hero-Photoroom_125: 553100899
+      hero-Photoroom_126: -2083032201
+      hero-Photoroom_127: -1221604791
+      hero-Photoroom_128: 812094182
+      hero-Photoroom_129: 2135208520
+      hero-Photoroom_130: -157111295
+      hero-Photoroom_131: 1957843087
+      hero-Photoroom_132: 833947981
+      hero-Photoroom_133: 1943318918
+      hero-Photoroom_134: 1982545280
+      hero-Photoroom_135: -535190520
+      hero-Photoroom_136: 509710058
+      hero-Photoroom_137: -1267656385
+      hero-Photoroom_138: 2062958411
+      hero-Photoroom_139: 1865262018
+      hero-Photoroom_140: 1070133544
+      hero-Photoroom_141: 1912046662
+      hero-Photoroom_142: 315697069
+      hero-Photoroom_143: -1961785092
+      hero-Photoroom_144: -745114114
+      hero-Photoroom_145: 678522503
+      hero-Photoroom_146: -1529577976
+      hero-Photoroom_147: -144148195
+      hero-Photoroom_148: 866317305
+      hero-Photoroom_149: -1536198783
+      hero-Photoroom_15: -644293779
+      hero-Photoroom_150: 822584891
+      hero-Photoroom_151: -540844698
+      hero-Photoroom_152: -1429374131
+      hero-Photoroom_153: -587689977
+      hero-Photoroom_154: 1658563800
+      hero-Photoroom_155: -2132106146
+      hero-Photoroom_156: 457875496
+      hero-Photoroom_157: -374600757
+      hero-Photoroom_158: -144926012
+      hero-Photoroom_159: 742727222
+      hero-Photoroom_16: 1230403348
+      hero-Photoroom_160: 249358255
+      hero-Photoroom_166: 887196778
+      hero-Photoroom_168: 1292363728
+      hero-Photoroom_17: 1088357381
+      hero-Photoroom_171: -1409887782
+      hero-Photoroom_172: 1563847370
+      hero-Photoroom_173: -1889296119
+      hero-Photoroom_174: -240913249
+      hero-Photoroom_175: -515167264
+      hero-Photoroom_176: 1734963452
+      hero-Photoroom_177: -1801528090
+      hero-Photoroom_178: 1367143062
+      hero-Photoroom_179: 1261599630
+      hero-Photoroom_18: -485964751
+      hero-Photoroom_180: -1586576366
+      hero-Photoroom_181: 1940454265
+      hero-Photoroom_182: -544568777
+      hero-Photoroom_183: -2088958007
+      hero-Photoroom_184: 956067601
+      hero-Photoroom_185: 2045426513
+      hero-Photoroom_186: -1990857884
+      hero-Photoroom_187: 2036809698
+      hero-Photoroom_188: -8280215
+      hero-Photoroom_189: 277248189
+      hero-Photoroom_19: -961426947
+      hero-Photoroom_190: -491895318
+      hero-Photoroom_191: -238882584
+      hero-Photoroom_192: -8989440
+      hero-Photoroom_193: -73615900
+      hero-Photoroom_194: 1418323265
+      hero-Photoroom_195: 1656419966
+      hero-Photoroom_196: -1903636045
+      hero-Photoroom_197: -40345294
+      hero-Photoroom_198: 959672972
+      hero-Photoroom_199: -46048723
+      hero-Photoroom_2: 1595738900
+      hero-Photoroom_20: -263547038
+      hero-Photoroom_200: -1065699355
+      hero-Photoroom_201: -1899135176
+      hero-Photoroom_202: 673017548
+      hero-Photoroom_203: -2050068956
+      hero-Photoroom_204: -1118612529
+      hero-Photoroom_205: 1232653266
+      hero-Photoroom_206: 754160642
+      hero-Photoroom_207: 1738220801
+      hero-Photoroom_208: 1008371129
+      hero-Photoroom_209: -1142250881
+      hero-Photoroom_21: 1135106616
+      hero-Photoroom_210: -780329196
+      hero-Photoroom_211: -142130491
+      hero-Photoroom_212: -461469860
+      hero-Photoroom_213: -1734459985
+      hero-Photoroom_214: 1736067870
+      hero-Photoroom_215: -2030667475
+      hero-Photoroom_216: 1077525228
+      hero-Photoroom_217: -1955950961
+      hero-Photoroom_218: -50311534
+      hero-Photoroom_219: -1658904733
+      hero-Photoroom_22: -1927138462
+      hero-Photoroom_220: -1879289770
+      hero-Photoroom_221: -1599179453
+      hero-Photoroom_222: -1348679596
+      hero-Photoroom_223: 1709233133
+      hero-Photoroom_224: -1982227432
+      hero-Photoroom_225: -1116495678
+      hero-Photoroom_226: 738967673
+      hero-Photoroom_227: 1999004314
+      hero-Photoroom_228: 1626826738
+      hero-Photoroom_229: 1085341020
+      hero-Photoroom_23: 1552733509
+      hero-Photoroom_230: 818749293
+      hero-Photoroom_231: 820098350
+      hero-Photoroom_232: 1595339101
+      hero-Photoroom_233: 910156828
+      hero-Photoroom_234: -226467467
+      hero-Photoroom_235: -269875899
+      hero-Photoroom_236: -781020158
+      hero-Photoroom_237: 1593658984
+      hero-Photoroom_238: -1586507804
+      hero-Photoroom_239: 1989527167
+      hero-Photoroom_24: 1199282394
+      hero-Photoroom_240: -1552538814
+      hero-Photoroom_241: -1173012140
+      hero-Photoroom_242: -694853406
+      hero-Photoroom_243: 25825911
+      hero-Photoroom_244: 1570519033
+      hero-Photoroom_245: 605598817
+      hero-Photoroom_246: 1739720582
+      hero-Photoroom_247: -71529309
+      hero-Photoroom_248: -2044842043
+      hero-Photoroom_249: -2103036553
+      hero-Photoroom_25: -873243059
+      hero-Photoroom_250: 432691836
+      hero-Photoroom_251: 84073019
+      hero-Photoroom_252: 685634141
+      hero-Photoroom_253: 1192576280
+      hero-Photoroom_254: -314410941
+      hero-Photoroom_255: 1323100023
+      hero-Photoroom_256: -1184885599
+      hero-Photoroom_257: -283046218
+      hero-Photoroom_258: 1270842756
+      hero-Photoroom_259: -1549142520
+      hero-Photoroom_26: -1105168283
+      hero-Photoroom_260: 403116562
+      hero-Photoroom_261: 1936297303
+      hero-Photoroom_262: 1259215945
+      hero-Photoroom_263: 25263627
+      hero-Photoroom_264: 2076852766
+      hero-Photoroom_265: 186651225
+      hero-Photoroom_266: -1535538754
+      hero-Photoroom_267: 1732686409
+      hero-Photoroom_268: -1943556260
+      hero-Photoroom_269: 1510155874
+      hero-Photoroom_27: 1686585696
+      hero-Photoroom_270: 1161054763
+      hero-Photoroom_271: -2131459671
+      hero-Photoroom_272: -465278535
+      hero-Photoroom_273: 1038409433
+      hero-Photoroom_274: 556420579
+      hero-Photoroom_275: -99502436
+      hero-Photoroom_276: -1833798951
+      hero-Photoroom_277: -1186790867
+      hero-Photoroom_278: 540132286
+      hero-Photoroom_279: -2052759260
+      hero-Photoroom_28: 85514772
+      hero-Photoroom_280: -861072832
+      hero-Photoroom_281: -513679454
+      hero-Photoroom_282: -1682756891
+      hero-Photoroom_283: 158919375
+      hero-Photoroom_284: 1230570719
+      hero-Photoroom_285: -30644256
+      hero-Photoroom_286: 1396821364
+      hero-Photoroom_287: 1801380507
+      hero-Photoroom_288: 1918901888
+      hero-Photoroom_289: -386706055
+      hero-Photoroom_29: -118610602
+      hero-Photoroom_290: 2056441638
+      hero-Photoroom_291: 782178685
+      hero-Photoroom_292: -177148397
+      hero-Photoroom_293: -1647374931
+      hero-Photoroom_294: 1432383948
+      hero-Photoroom_295: 1142978403
+      hero-Photoroom_296: -351424451
+      hero-Photoroom_297: 955128782
+      hero-Photoroom_298: 56018891
+      hero-Photoroom_299: -99232935
+      hero-Photoroom_3: 1351912309
+      hero-Photoroom_30: 1061971784
+      hero-Photoroom_300: -1320723448
+      hero-Photoroom_301: -555505797
+      hero-Photoroom_302: -663124768
+      hero-Photoroom_303: -1914221763
+      hero-Photoroom_304: 7839202
+      hero-Photoroom_305: -400470692
+      hero-Photoroom_306: -106798798
+      hero-Photoroom_307: -1613911397
+      hero-Photoroom_308: -2038400631
+      hero-Photoroom_309: -954471874
+      hero-Photoroom_31: 1532767041
+      hero-Photoroom_310: 984747903
+      hero-Photoroom_311: 1753105924
+      hero-Photoroom_312: 2047079430
+      hero-Photoroom_313: 902109632
+      hero-Photoroom_314: -1636043594
+      hero-Photoroom_315: -104539290
+      hero-Photoroom_316: 1049125219
+      hero-Photoroom_317: -2127588040
+      hero-Photoroom_318: -816406636
+      hero-Photoroom_319: 1923792363
+      hero-Photoroom_32: 617202476
+      hero-Photoroom_320: 1241482415
+      hero-Photoroom_321: -1863581898
+      hero-Photoroom_322: -1732548770
+      hero-Photoroom_323: 949491042
+      hero-Photoroom_324: -1037828228
+      hero-Photoroom_325: 359809025
+      hero-Photoroom_326: -874281843
+      hero-Photoroom_327: -14872969
+      hero-Photoroom_328: 979755337
+      hero-Photoroom_329: 760041671
+      hero-Photoroom_33: -19793800
+      hero-Photoroom_330: 685458444
+      hero-Photoroom_331: -1007327542
+      hero-Photoroom_332: -666375009
+      hero-Photoroom_333: -1373437098
+      hero-Photoroom_334: 256232575
+      hero-Photoroom_335: -1007440234
+      hero-Photoroom_336: 2101999328
+      hero-Photoroom_337: 650166603
+      hero-Photoroom_338: 931568319
+      hero-Photoroom_339: 1732894242
+      hero-Photoroom_34: -1655204757
+      hero-Photoroom_340: 1357148088
+      hero-Photoroom_341: -1039213273
+      hero-Photoroom_342: 222324428
+      hero-Photoroom_343: -845614587
+      hero-Photoroom_344: -355655680
+      hero-Photoroom_345: 942757673
+      hero-Photoroom_346: -1582699902
+      hero-Photoroom_347: 1475398619
+      hero-Photoroom_348: -2086739983
+      hero-Photoroom_349: -1645897267
+      hero-Photoroom_35: 2097005562
+      hero-Photoroom_350: -352868548
+      hero-Photoroom_351: -752038952
+      hero-Photoroom_352: 1558360549
+      hero-Photoroom_353: 355247835
+      hero-Photoroom_354: 1509959032
+      hero-Photoroom_355: 747036940
+      hero-Photoroom_356: 2032167603
+      hero-Photoroom_357: -409600884
+      hero-Photoroom_358: -1298352718
+      hero-Photoroom_359: 248221895
+      hero-Photoroom_36: 1057289102
+      hero-Photoroom_360: -547365472
+      hero-Photoroom_361: 1323377748
+      hero-Photoroom_362: 1257767973
+      hero-Photoroom_363: 1735555445
+      hero-Photoroom_364: 798450920
+      hero-Photoroom_365: -1259099450
+      hero-Photoroom_366: -996450635
+      hero-Photoroom_367: -551307976
+      hero-Photoroom_368: 609570754
+      hero-Photoroom_369: 1518403743
+      hero-Photoroom_37: 887966543
+      hero-Photoroom_370: -1740980997
+      hero-Photoroom_371: -1913970619
+      hero-Photoroom_372: -782783821
+      hero-Photoroom_373: 507660307
+      hero-Photoroom_374: -1626124692
+      hero-Photoroom_375: -416688842
+      hero-Photoroom_376: 617718464
+      hero-Photoroom_377: 744372210
+      hero-Photoroom_378: -273470178
+      hero-Photoroom_379: 868892616
+      hero-Photoroom_38: 1913769082
+      hero-Photoroom_380: 1521138018
+      hero-Photoroom_381: 221538117
+      hero-Photoroom_382: 1696689120
+      hero-Photoroom_383: -142563602
+      hero-Photoroom_384: -281076418
+      hero-Photoroom_385: 2094764516
+      hero-Photoroom_386: 513104082
+      hero-Photoroom_387: -266390520
+      hero-Photoroom_388: 2059727153
+      hero-Photoroom_389: 1450270970
+      hero-Photoroom_39: 685944523
+      hero-Photoroom_390: -126729966
+      hero-Photoroom_391: -704268229
+      hero-Photoroom_392: -2022897422
+      hero-Photoroom_393: 491423611
+      hero-Photoroom_394: 1074765424
+      hero-Photoroom_395: 487335598
+      hero-Photoroom_396: 377436006
+      hero-Photoroom_397: 810264747
+      hero-Photoroom_398: -879287734
+      hero-Photoroom_399: 540920505
+      hero-Photoroom_4: -1732378446
+      hero-Photoroom_40: -274464546
+      hero-Photoroom_400: -405150452
+      hero-Photoroom_401: -1762710364
+      hero-Photoroom_402: -1478455237
+      hero-Photoroom_403: -587584371
+      hero-Photoroom_404: 1147801204
+      hero-Photoroom_405: -1499591974
+      hero-Photoroom_406: 1689279140
+      hero-Photoroom_407: 783099324
+      hero-Photoroom_408: 543333845
+      hero-Photoroom_409: 1955748223
+      hero-Photoroom_41: 159841248
+      hero-Photoroom_410: 1898495253
+      hero-Photoroom_411: 1025022031
+      hero-Photoroom_412: -560825947
+      hero-Photoroom_413: 1766670682
+      hero-Photoroom_414: -2120417978
+      hero-Photoroom_415: 1415657269
+      hero-Photoroom_416: -1138533326
+      hero-Photoroom_417: 1834220977
+      hero-Photoroom_418: 1295649960
+      hero-Photoroom_419: 1336306285
+      hero-Photoroom_42: 1210126685
+      hero-Photoroom_420: -1761670322
+      hero-Photoroom_421: 1569089474
+      hero-Photoroom_422: -1470707383
+      hero-Photoroom_423: 462476277
+      hero-Photoroom_424: 806917088
+      hero-Photoroom_425: 1180292494
+      hero-Photoroom_426: -1984120874
+      hero-Photoroom_427: 403229202
+      hero-Photoroom_428: -1726990259
+      hero-Photoroom_429: 1673049327
+      hero-Photoroom_43: 1918133242
+      hero-Photoroom_430: 598521785
+      hero-Photoroom_431: 817882515
+      hero-Photoroom_432: -908983822
+      hero-Photoroom_433: -302882172
+      hero-Photoroom_434: -1463782961
+      hero-Photoroom_435: 560696724
+      hero-Photoroom_436: -1433405161
+      hero-Photoroom_437: 1820947601
+      hero-Photoroom_438: -1924503620
+      hero-Photoroom_439: 1135407326
+      hero-Photoroom_44: -1871437809
+      hero-Photoroom_440: 1615856509
+      hero-Photoroom_441: 1691775041
+      hero-Photoroom_45: -636741010
+      hero-Photoroom_46: 404318869
+      hero-Photoroom_47: -146702314
+      hero-Photoroom_48: 1596482843
+      hero-Photoroom_49: 710239659
+      hero-Photoroom_50: 1653007552
+      hero-Photoroom_51: -620512743
+      hero-Photoroom_52: 206689693
+      hero-Photoroom_53: 701274414
+      hero-Photoroom_54: -1493315741
+      hero-Photoroom_55: 1116605459
+      hero-Photoroom_56: -2061434793
+      hero-Photoroom_57: 2062426756
+      hero-Photoroom_58: -614388238
+      hero-Photoroom_59: 1586938401
+      hero-Photoroom_60: 2234972
+      hero-Photoroom_61: 769021305
+      hero-Photoroom_62: -1522591030
+      hero-Photoroom_63: -1153449897
+      hero-Photoroom_64: -1689285040
+      hero-Photoroom_65: 1518887645
+      hero-Photoroom_66: -728337972
+      hero-Photoroom_67: -1927054258
+      hero-Photoroom_68: -1846861362
+      hero-Photoroom_69: -1323103574
+      hero-Photoroom_70: -757479503
+      hero-Photoroom_71: 1160517135
+      hero-Photoroom_72: 1103040658
+      hero-Photoroom_73: 713893202
+      hero-Photoroom_74: 1581616565
+      hero-Photoroom_75: -716388688
+      hero-Photoroom_76: -1979146804
+      hero-Photoroom_77: 928374860
+      hero-Photoroom_78: 982703967
+      hero-Photoroom_79: -415942338
+      hero-Photoroom_80: -1688747732
+      hero-Photoroom_81: -1024961239
+      hero-Photoroom_82: 1963157251
+      hero-Photoroom_83: -1932709469
+      hero-Photoroom_84: 1797021298
+      hero-Photoroom_85: 2139165906
+      hero-Photoroom_86: -924695246
+      hero-Photoroom_87: 627916478
+      hero-Photoroom_88: -1114992496
+      hero-Photoroom_89: 1165981434
+      hero-Photoroom_90: -591200263
+      hero-Photoroom_91: 1601077377
+      hero-Photoroom_92: 189391913
+      hero-Photoroom_93: -1505586157
+      hero-Photoroom_94: 1375876612
+      hero-Photoroom_95: -988830869
+      hero-Photoroom_96: -1257204452
+      hero-Photoroom_97: -730285368
+      hero-Photoroom_98: -2122064417
+      hero-Photoroom_99: -722979776
+      ilde_1: 512635982
+      ilde_2: 973284403
+      ilde_3: 450138305
+      ilde_4: -999711243
+      walk_down_1: 1955937228
+      walk_down_2: -190601540
+      walk_down_3: -433601105
+      walk_down_4: 399383131
+      walk_down_5: 1261418358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
