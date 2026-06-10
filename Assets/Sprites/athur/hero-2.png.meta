@@ -132,6 +132,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -304,13 +343,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_11
+      name: walk_up_1
       rect:
         serializedVersion: 2
         x: 735
         y: 1147
-        width: 77
-        height: 121
+        width: 80
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,13 +364,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_12
+      name: walk_up_2
       rect:
         serializedVersion: 2
         x: 852
         y: 1147
-        width: 88
-        height: 121
+        width: 80
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,13 +385,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_13
+      name: walk_up_3
       rect:
         serializedVersion: 2
         x: 960
         y: 1147
-        width: 77
-        height: 121
+        width: 80
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,13 +406,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_14
+      name: walk_up_4
       rect:
         serializedVersion: 2
         x: 1079
         y: 1147
-        width: 79
-        height: 121
+        width: 80
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -619,7 +658,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_57
+      name: walk_up_5
       rect:
         serializedVersion: 2
         x: 613
@@ -2152,13 +2191,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_289
+      name: idle_horizone_1
       rect:
         serializedVersion: 2
         x: 1248
         y: 424
         width: 103
-        height: 122
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2173,13 +2212,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_290
+      name: idle_horizone_2
       rect:
         serializedVersion: 2
-        x: 1383
+        x: 1386
         y: 424
-        width: 112
-        height: 121
+        width: 108
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2194,13 +2233,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_291
+      name: idle_horizone_3
       rect:
         serializedVersion: 2
         x: 1535
         y: 424
         width: 104
-        height: 121
+        height: 120
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3246,7 +3285,6 @@ TextureImporter:
       hero-2_107: -22614333
       hero-2_108: -1125391174
       hero-2_109: 1118134053
-      hero-2_11: 2107382302
       hero-2_110: 1199938276
       hero-2_111: 1979494331
       hero-2_112: -593907437
@@ -3257,7 +3295,6 @@ TextureImporter:
       hero-2_117: -1079037852
       hero-2_118: -975655506
       hero-2_119: -758287527
-      hero-2_12: 1626587665
       hero-2_120: 1648898126
       hero-2_121: 2059972673
       hero-2_122: -1855897521
@@ -3268,12 +3305,10 @@ TextureImporter:
       hero-2_127: -2020728917
       hero-2_128: 1268120577
       hero-2_129: -254018012
-      hero-2_13: -256133090
       hero-2_130: -355628814
       hero-2_131: -175169751
       hero-2_135: -418624673
       hero-2_139: 856166014
-      hero-2_14: -972024554
       hero-2_142: -1750900547
       hero-2_143: -1305089868
       hero-2_144: -987251309
@@ -3436,10 +3471,7 @@ TextureImporter:
       hero-2_286: 439135620
       hero-2_287: -1856746605
       hero-2_288: -1514749894
-      hero-2_289: 598340768
       hero-2_29: -727667128
-      hero-2_290: 1189063000
-      hero-2_291: 135810200
       hero-2_292: 746529322
       hero-2_293: 1877326910
       hero-2_294: -1945010990
@@ -3616,7 +3648,6 @@ TextureImporter:
       hero-2_52: -479530350
       hero-2_54: -361118715
       hero-2_55: -1678702541
-      hero-2_57: 686076427
       hero-2_58: 1115714456
       hero-2_59: -561547639
       hero-2_60: -779961606
@@ -3669,12 +3700,20 @@ TextureImporter:
       idle_back_2: -1505806799
       idle_back_3: -1178030504
       idle_back_4: 162379472
+      idle_horizone_1: 598340768
+      idle_horizone_2: 1189063000
+      idle_horizone_3: 135810200
       idle_up_1: -863944347
       idle_up_2: -2067089730
       idle_up_3: -902187751
       idle_up_4: 1769308802
       idle_up_5: 432375296
       idle_up_6: 858073066
+      walk_up_1: 2107382302
+      walk_up_2: 1626587665
+      walk_up_3: -256133090
+      walk_up_4: -972024554
+      walk_up_5: 686076427
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
