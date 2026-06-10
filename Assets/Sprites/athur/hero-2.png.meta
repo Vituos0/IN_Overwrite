@@ -217,13 +217,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_4
+      name: block_3
       rect:
         serializedVersion: 2
-        x: 2142
-        y: 996
-        width: 96
-        height: 146
+        x: 2143
+        y: 1012
+        width: 90
+        height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -532,10 +532,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_26
+      name: def_6
       rect:
         serializedVersion: 2
-        x: 1849
+        x: 1850
         y: 1148
         width: 101
         height: 116
@@ -553,7 +553,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_27
+      name: block_5
       rect:
         serializedVersion: 2
         x: 1996
@@ -767,7 +767,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1234
-        y: 1008
+        y: 1010
         width: 128
         height: 133
       alignment: 0
@@ -868,13 +868,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_77
+      name: block_2
       rect:
         serializedVersion: 2
         x: 2004
-        y: 1011
-        width: 80
-        height: 122
+        y: 1012
+        width: 90
+        height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -889,13 +889,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_81
+      name: block_1
       rect:
         serializedVersion: 2
         x: 1864
-        y: 1011
-        width: 105
-        height: 119
+        y: 1012
+        width: 90
+        height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1355,7 +1355,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 22
-        y: 698
+        y: 700
         width: 95
         height: 126
       alignment: 0
@@ -1540,13 +1540,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_174
+      name: def_1
       rect:
         serializedVersion: 2
         x: 1383
         y: 697
-        width: 112
-        height: 127
+        width: 109
+        height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1582,11 +1582,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_178
+      name: def_5
       rect:
         serializedVersion: 2
         x: 1665
-        y: 693
+        y: 697
         width: 119
         height: 131
       alignment: 0
@@ -1666,13 +1666,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_194
+      name: atk_5
       rect:
         serializedVersion: 2
-        x: 588
-        y: 559
-        width: 110
-        height: 137
+        x: 600
+        y: 562
+        width: 95
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1708,13 +1708,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_204
+      name: atk_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 559
-        width: 120
-        height: 127
+        x: 22
+        y: 561
+        width: 95
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1729,13 +1729,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_205
+      name: atk_2
       rect:
         serializedVersion: 2
-        x: 182
-        y: 560
-        width: 81
-        height: 131
+        x: 165
+        y: 561
+        width: 95
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1750,13 +1750,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_210
+      name: atk_6
       rect:
         serializedVersion: 2
-        x: 751
-        y: 555
-        width: 102
-        height: 128
+        x: 756
+        y: 561
+        width: 95
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1771,13 +1771,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_211
+      name: atk_7
       rect:
         serializedVersion: 2
-        x: 872
-        y: 559
-        width: 119
-        height: 131
+        x: 892
+        y: 561
+        width: 95
+        height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1792,13 +1792,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_213
+      name: atk_8
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 559
-        width: 115
-        height: 131
+        x: 1032
+        y: 562
+        width: 100
+        height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1939,13 +1939,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_238
+      name: atk_3
       rect:
         serializedVersion: 2
-        x: 288
-        y: 553
-        width: 122
-        height: 148
+        x: 308
+        y: 561
+        width: 95
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1960,13 +1960,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_241
+      name: atk_4
       rect:
         serializedVersion: 2
-        x: 421
-        y: 554
-        width: 151
-        height: 146
+        x: 451
+        y: 561
+        width: 95
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2194,8 +2194,8 @@ TextureImporter:
       name: idle_horizone_1
       rect:
         serializedVersion: 2
-        x: 1248
-        y: 424
+        x: 1249
+        y: 425
         width: 103
         height: 120
       alignment: 0
@@ -2212,11 +2212,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_horizone_2
+      name: def_2
       rect:
         serializedVersion: 2
-        x: 1386
-        y: 424
+        x: 1387
+        y: 425
         width: 108
         height: 120
       alignment: 0
@@ -2233,11 +2233,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_horizone_3
+      name: def_3
       rect:
         serializedVersion: 2
         x: 1535
-        y: 424
+        y: 425
         width: 104
         height: 120
       alignment: 0
@@ -2254,12 +2254,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero-2_292
+      name: def_4
       rect:
         serializedVersion: 2
-        x: 1657
-        y: 420
-        width: 127
+        x: 1683
+        y: 425
+        width: 104
         height: 125
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2405,7 +2405,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 21
-        y: 284
+        y: 286
         width: 102
         height: 124
       alignment: 0
@@ -3272,6 +3272,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      atk_1: -2143227320
+      atk_2: -1749795518
+      atk_3: -126043979
+      atk_4: 216247247
+      atk_5: -1763531675
+      atk_6: 1001493418
+      atk_7: 1929598508
+      atk_8: -1967622024
+      block_1: -358636247
+      block_2: 46472718
+      block_3: -1668380653
+      block_5: 409504148
+      def_1: -185122205
+      def_2: 1189063000
+      def_3: 135810200
+      def_4: 746529322
+      def_5: -1364915888
+      def_6: 600332832
       hero-2_0: -482057081
       hero-2_1: 58585775
       hero-2_10: -1463518076
@@ -3344,11 +3362,9 @@ TextureImporter:
       hero-2_171: 2072049522
       hero-2_172: -1118793412
       hero-2_173: 470006327
-      hero-2_174: -185122205
       hero-2_175: 725951465
       hero-2_176: -812582163
       hero-2_177: 1122464172
-      hero-2_178: -1364915888
       hero-2_179: -626136756
       hero-2_18: 1735185330
       hero-2_180: -10547360
@@ -3366,7 +3382,6 @@ TextureImporter:
       hero-2_191: 857481742
       hero-2_192: -1567617352
       hero-2_193: -793060848
-      hero-2_194: -1763531675
       hero-2_195: -2119376016
       hero-2_196: 34221763
       hero-2_197: 51537293
@@ -3378,17 +3393,12 @@ TextureImporter:
       hero-2_201: -1877455398
       hero-2_202: 1936390233
       hero-2_203: -1891777218
-      hero-2_204: -2143227320
-      hero-2_205: -1749795518
       hero-2_206: 1279036253
       hero-2_207: -1702044544
       hero-2_208: 971798711
       hero-2_209: -682538719
       hero-2_21: -530902735
-      hero-2_210: 1001493418
-      hero-2_211: 1929598508
       hero-2_212: -96159014
-      hero-2_213: -1967622024
       hero-2_214: 1548068274
       hero-2_215: 1337950451
       hero-2_216: -318939251
@@ -3415,11 +3425,9 @@ TextureImporter:
       hero-2_235: 1019123911
       hero-2_236: -749944510
       hero-2_237: -824649165
-      hero-2_238: -126043979
       hero-2_239: -68439989
       hero-2_24: 1281724239
       hero-2_240: -1157062848
-      hero-2_241: 216247247
       hero-2_242: -755686215
       hero-2_243: -315669779
       hero-2_244: 639322329
@@ -3439,7 +3447,6 @@ TextureImporter:
       hero-2_257: -637160414
       hero-2_258: 1197936918
       hero-2_259: -760433376
-      hero-2_26: 600332832
       hero-2_260: -1122917717
       hero-2_261: -1339650222
       hero-2_262: -1184970627
@@ -3450,7 +3457,6 @@ TextureImporter:
       hero-2_267: -722489346
       hero-2_268: -2077144172
       hero-2_269: -1094675453
-      hero-2_27: 409504148
       hero-2_270: 187513529
       hero-2_271: 1759926551
       hero-2_272: 867369622
@@ -3472,7 +3478,6 @@ TextureImporter:
       hero-2_287: -1856746605
       hero-2_288: -1514749894
       hero-2_29: -727667128
-      hero-2_292: 746529322
       hero-2_293: 1877326910
       hero-2_294: -1945010990
       hero-2_295: 33739686
@@ -3591,7 +3596,6 @@ TextureImporter:
       hero-2_397: -1825250662
       hero-2_398: -443142317
       hero-2_399: 1215199953
-      hero-2_4: -1668380653
       hero-2_40: 614175015
       hero-2_400: -1712972696
       hero-2_401: -539359220
@@ -3667,11 +3671,9 @@ TextureImporter:
       hero-2_74: 881459720
       hero-2_75: -757853586
       hero-2_76: 1879954228
-      hero-2_77: 46472718
       hero-2_78: -1914917166
       hero-2_79: -1268648091
       hero-2_80: -1928228994
-      hero-2_81: -358636247
       hero-2_82: 919989936
       hero-2_83: 1130947049
       hero-2_84: 1280177898
@@ -3701,8 +3703,6 @@ TextureImporter:
       idle_back_3: -1178030504
       idle_back_4: 162379472
       idle_horizone_1: 598340768
-      idle_horizone_2: 1189063000
-      idle_horizone_3: 135810200
       idle_up_1: -863944347
       idle_up_2: -2067089730
       idle_up_3: -902187751
