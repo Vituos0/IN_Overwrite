@@ -1,0 +1,2744 @@
+fileFormatVersion: 2
+guid: 70d9446ab7e55364faa29de65778cb5e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lll-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092
+        width: 158
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3500f0cfc1c1094d82ccc1cde927f8d
+      internalID: 1589319130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1238
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b41507d0e4274fbbcc47def7b4944
+      internalID: 1576270009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1238
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd68c3a975cd3429bf9f935c2f5984
+      internalID: -1432316090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1238
+        width: 105
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c94407b4be9ca4887e398f1d654fab
+      internalID: -1147028803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1238
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def9326841b835a4988ef887b6092708
+      internalID: -1870699429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1238
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d132a72ee05695a499db51996df884a1
+      internalID: -1003811396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1238
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2f582ddeda6d8468753e0b7534aaf3
+      internalID: -672079060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1238
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c552401d03754984982ffcbef80af7a6
+      internalID: 1967209262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1238
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043b48ae26f290545b0e74fdcde0da0c
+      internalID: -492259681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1238
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32a556d6dbef094890e9cd7a7adaa45
+      internalID: 1265531890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1238
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2a48a6999c4954f9a2ed3b02635a82
+      internalID: -407249981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1238
+        width: 141
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c4fd5b48d7c14d96a02351f86df5c
+      internalID: -1761284520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1255
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a2e0e9709cdb145b6d4fb4f26e117f
+      internalID: 524150318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1238
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340c765a1d76a2743b2a648e616cf4c2
+      internalID: 10737471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1254
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13b12de301a9274b9bc8ddc73234284
+      internalID: -667252881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1238
+        width: 174
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3951e57e180a140ac363ae84756deb
+      internalID: -1520717776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1238
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e17cb3bdbdcb74089c81bf079d22bc
+      internalID: 2018656956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1238
+        width: 174
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde817cd1a6a544a8d08a6ef5c593aa
+      internalID: 65976175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1238
+        width: 104
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075e687d51b243e448c121a1e3b0a02b
+      internalID: -1197300833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1238
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337d3231b3bb0dc43adf59247c447cad
+      internalID: -765299116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1238
+        width: 139
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298c5561605c0e4b9e629b76cda212e
+      internalID: 219006645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_6
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1009
+        width: 163
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f749a422510e0404c9843fbe3ae01287
+      internalID: 1258663721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1092
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e02712f54324e4ca9b820a55845f42
+      internalID: -1583876959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1092
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696fb1a285d071e498837709c043c61c
+      internalID: -238872745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1092
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8c9145603e66945888a270675a1ecd
+      internalID: 1654546811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1092
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3988a0c870e62ac41978ff9a0bf9192c
+      internalID: -309576675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1092
+        width: 221
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69229cafdcce21f40b69d6c754dad7c0
+      internalID: -1260730466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 710
+        width: 446
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d1b7acac8774d4fa41ed0923a9e968
+      internalID: 1406362719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1012
+        width: 145
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb842fe5cf93b459bc773949e756cf
+      internalID: 187385658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_2
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1010
+        width: 128
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a163da34408349a3bb72b9b9b0ca1
+      internalID: -1095288719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_3
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1010
+        width: 140
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8390d58a7686c747b74ad9b4abd930f
+      internalID: 611408682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_4
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1010
+        width: 150
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13298dc1b9c9e2f4da8bf7ade41da71c
+      internalID: 1225624425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_5
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1009
+        width: 153
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89219fd1e270c514bbd7f5b3946bbc17
+      internalID: 77163048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 981
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cc753c89d2dc241b82ef9888f30c95
+      internalID: 615772398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 981
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cffd13030c17f4c8cb6215ec9849d1
+      internalID: 1548814210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 981
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c6a0c1c9b4e5e49930bab987a1fa59
+      internalID: -1884819730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 981
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0220cf6925ff3694b95e11b858db2bee
+      internalID: 737613720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 981
+        width: 334
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4bd6a445c64884297bab7cabbec49f
+      internalID: -1398543823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_7
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 890
+        width: 145
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5519e5da2b6729941b36ed32df06af34
+      internalID: 755529539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 891
+        width: 84
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c117d89f74d28ab46ba18869c9d7280e
+      internalID: 260265561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 889
+        width: 45
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e8822c823963e4fa27501be3a60280
+      internalID: 835854738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 889
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3c7e54bd0a364fbd655e606d6ea33
+      internalID: 1266717881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 889
+        width: 61
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3f51fe9cbbaa045b3ef690f0d1ede9
+      internalID: 2135754587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 889
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc249a092b454a74ab60a61a23e831b7
+      internalID: 1664951721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 887
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3193a8858ea4acc4c82e7a5f30fd5d3b
+      internalID: -973921520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 768
+        width: 783
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad541d3b646e614d8d3cb58d4ff685d
+      internalID: -159121914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_8
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 889
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9565903a30e94eaee383780c68267
+      internalID: -2119931560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_9
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 888
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e4baae1ae7674793aab0d9c7f0ac5
+      internalID: 1999995483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 768
+        width: 141
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f4ae25bf2cb948ab528a27540616b
+      internalID: -75138228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 773
+        width: 123
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d5f84e0ac4b5b409a623824c64d528
+      internalID: 1008857775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 827
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71765f9b46462d847aee9269b8485ffd
+      internalID: 1045345247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 811
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99400f27d31012e4a9fdeee734417aed
+      internalID: 1037180633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 826
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde5e70a58106154faa6ca1dd509b1d8
+      internalID: 1306948320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 809
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768cb3e0b8aec444812ffd41ece2116
+      internalID: 591904637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 773
+        width: 81
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d21db18b58d4f2428e61aad3ab55c67
+      internalID: -997221057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 772
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a547e7c3663b4fbdf485190a9ab02
+      internalID: -744671480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 773
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff27b7ea0ca45449597240cea497d5
+      internalID: -563861640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 773
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24953697a3803294ba2c3c7faf341292
+      internalID: 1336588981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 669
+        width: 205
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb434f82e01aae4cac855190ad19e00
+      internalID: -1401349468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 799
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5969d88cc6d7b83419fa2c151512f6d3
+      internalID: 241093881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 780
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db91e124201fbe4aaed6f877a6fc2bd
+      internalID: 1432184977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 785
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a458f69945fb5342b5755d76a81d198
+      internalID: -1235476920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 788
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cbddad85381ba448e030bcff758514
+      internalID: 518394365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 655
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df90df5a59bec744a785d351181f967
+      internalID: -1761932395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 655
+        width: 335
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab33eb2ca2891a4aba114a0b58c4845
+      internalID: 2108298786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 655
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46fbcec0df1f40498a2a496e6f113a4
+      internalID: -1146904619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 655
+        width: 220
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015f325b45ccd44ca77aae9cbfe13cf
+      internalID: 923017653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 659
+        width: 149
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ebb3c1d8e547c44b2a16d659afee3c
+      internalID: 233870328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 732
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565d6410f4211a4f8e895ec8b658500
+      internalID: -1217507003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 669
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e644d86deb75c842bd30c0882ee1a1f
+      internalID: -1473715144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 669
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a87c7af7aa18a46bb06da30ca6156f
+      internalID: 370537435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 673
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218de2134778c9d4e8811bf39fe7a909
+      internalID: -86818543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 703
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a748c0203b45c0b4187968a012d41e85
+      internalID: 159461949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 710
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058cd3d4d87207b4598211889f0d69a0
+      internalID: 116532997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 705
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d429ec3d83d6147a089dc3f67502b7
+      internalID: 413020590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 431
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2391dc69e885428bf7538afaf999c
+      internalID: 112982209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_3
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 541
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ab39bed54390f488854bb5f52eb666
+      internalID: 2101913860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 668
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3dfa2a263225a47a5d6bf38f19df8c
+      internalID: 1567004332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 669
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870f636a1d4db44897d5f69eddf17c8
+      internalID: 31389212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 664
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e46a286b8c47c4ea75796bca22959f
+      internalID: -2081854145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 545
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f255f2424f9f3949bc22a8a76627faa
+      internalID: -128308944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 545
+        width: 223
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c677293b1fa37d498e639758b7ef442
+      internalID: -980347738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 545
+        width: 446
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fb85cc1b69164419388d0e79e47643
+      internalID: -321882416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_1
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 542
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab1a93a85cf41f479c394a2063265a0
+      internalID: 845891061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_4
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 541
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e871fb4a78ff9a745a676d358351c63c
+      internalID: -2005471296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 441
+        width: 105
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e51120ce9fb1145a7d35b8e32735ce
+      internalID: 1046158688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 441
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e605a939e84bfb14ab3ccc8456ef75d3
+      internalID: 1006370815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 441
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9445ad1614441d44e9c002d212c7e94e
+      internalID: -1322093293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 441
+        width: 164
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f5b002a2d74b944b9f6b201ada1b8c
+      internalID: -1197781449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_6
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 431
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31d13dc9f23bab4ca06e8388221833a
+      internalID: 1395476178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_7
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9b94413b5666848b123eca3f5b9d52
+      internalID: 709405023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_2
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 541
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c868eb3b8e9ff9a4cba25d68e97dbcf6
+      internalID: -1040881818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_8
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 430
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d3404e7897eea469c3dff54b9d77fa
+      internalID: 982438108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 448
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eac0d9614e5b3439df6104bc070638
+      internalID: -183078600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 448
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba23798024a64dd4eb7f1cbb1f7c070d
+      internalID: -1096071366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 448
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a9bcac352558f42892be9f56616bae
+      internalID: -1416669450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 448
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441e24e3b22c36941b2e75541db94815
+      internalID: -263007061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 448
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6023fed9e3575c84fa7701535c754a56
+      internalID: -692700202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 448
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e2ad555391a0d41b6dc7915e052f7f
+      internalID: -1848026137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 448
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501866acdc7aaa4ba1711d9f433987f
+      internalID: 763383629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 448
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c9e2d3b0207124381c9006703c15c1
+      internalID: -1129923803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 350
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91fa4368a2dd446b829c36b7eff352
+      internalID: -1037557439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 62
+        width: 167
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c3fefe3c0f334f844d9253145787e
+      internalID: 498935855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_9
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 318
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9a833fb9fcf814498e966681e7965c
+      internalID: 5286665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_10
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 318
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0283ae81af8c12c4483eba8f6dc311a5
+      internalID: 1771216328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_11
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 317
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695d97fff23cf4d4b99dd2c8d26e8f9d
+      internalID: -1946633341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: path_12
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 318
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9602b306907b9204f8ca8e285acfd34d
+      internalID: 2048467554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 56
+        width: 314
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc453e2735175b41954892cb841e9d3
+      internalID: 34070240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 76
+        width: 195
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fda29abef79954a83c0664fa287744
+      internalID: 798220597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 0
+        width: 187
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b018c8205208514e8cc2bbda3c80ade
+      internalID: 1083478102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 64
+        width: 247
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f603e67449f1045aeaeb5ec38b1521
+      internalID: -217367407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 59
+        width: 133
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c1d3cb55190b64c8a0a9428ade2fc4
+      internalID: 440336981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 57
+        width: 279
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd892dc5cd159a4997abf3ae22cc62e
+      internalID: -590793124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 223
+        width: 141
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb23071242a833e4f80bdd31a0833424
+      internalID: -507300399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 169
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336a59842865bea4baf759b241f3259d
+      internalID: 1749650022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 55
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d697447bfd025429131e4fc7016c97
+      internalID: 1338480996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      House: 34070240
+      house_2: 498935855
+      house_3: -1037557439
+      lll-Photoroom_0: 1589319130
+      lll-Photoroom_1: 1576270009
+      lll-Photoroom_10: -407249981
+      lll-Photoroom_100: -1129923803
+      lll-Photoroom_108: 798220597
+      lll-Photoroom_109: 1083478102
+      lll-Photoroom_11: -1761284520
+      lll-Photoroom_110: -217367407
+      lll-Photoroom_111: 440336981
+      lll-Photoroom_112: -590793124
+      lll-Photoroom_113: -507300399
+      lll-Photoroom_114: 1749650022
+      lll-Photoroom_115: 1338480996
+      lll-Photoroom_12: 524150318
+      lll-Photoroom_13: 10737471
+      lll-Photoroom_14: -667252881
+      lll-Photoroom_15: -1520717776
+      lll-Photoroom_16: 2018656956
+      lll-Photoroom_17: 65976175
+      lll-Photoroom_18: -1197300833
+      lll-Photoroom_19: -765299116
+      lll-Photoroom_2: -1432316090
+      lll-Photoroom_20: 219006645
+      lll-Photoroom_22: -1583876959
+      lll-Photoroom_23: -238872745
+      lll-Photoroom_24: 1654546811
+      lll-Photoroom_25: -309576675
+      lll-Photoroom_26: -1260730466
+      lll-Photoroom_27: 1406362719
+      lll-Photoroom_3: -1147028803
+      lll-Photoroom_33: 615772398
+      lll-Photoroom_34: 1548814210
+      lll-Photoroom_35: -1884819730
+      lll-Photoroom_36: 737613720
+      lll-Photoroom_37: -1398543823
+      lll-Photoroom_39: 260265561
+      lll-Photoroom_4: -1870699429
+      lll-Photoroom_40: 835854738
+      lll-Photoroom_41: 1266717881
+      lll-Photoroom_42: 2135754587
+      lll-Photoroom_43: 1664951721
+      lll-Photoroom_44: -973921520
+      lll-Photoroom_45: -159121914
+      lll-Photoroom_48: -75138228
+      lll-Photoroom_49: 1008857775
+      lll-Photoroom_5: -1003811396
+      lll-Photoroom_50: 1045345247
+      lll-Photoroom_51: 1037180633
+      lll-Photoroom_52: 1306948320
+      lll-Photoroom_53: 591904637
+      lll-Photoroom_54: -997221057
+      lll-Photoroom_55: -744671480
+      lll-Photoroom_56: -563861640
+      lll-Photoroom_57: 1336588981
+      lll-Photoroom_58: -1401349468
+      lll-Photoroom_59: 241093881
+      lll-Photoroom_6: -672079060
+      lll-Photoroom_60: 1432184977
+      lll-Photoroom_61: -1235476920
+      lll-Photoroom_62: 518394365
+      lll-Photoroom_63: -1761932395
+      lll-Photoroom_64: 2108298786
+      lll-Photoroom_65: -1146904619
+      lll-Photoroom_66: 923017653
+      lll-Photoroom_67: 233870328
+      lll-Photoroom_68: -1217507003
+      lll-Photoroom_69: -1473715144
+      lll-Photoroom_7: 1967209262
+      lll-Photoroom_70: 370537435
+      lll-Photoroom_71: -86818543
+      lll-Photoroom_72: 159461949
+      lll-Photoroom_73: 116532997
+      lll-Photoroom_74: 413020590
+      lll-Photoroom_77: 1567004332
+      lll-Photoroom_78: 31389212
+      lll-Photoroom_79: -2081854145
+      lll-Photoroom_8: -492259681
+      lll-Photoroom_80: -128308944
+      lll-Photoroom_81: -980347738
+      lll-Photoroom_82: -321882416
+      lll-Photoroom_85: 1046158688
+      lll-Photoroom_86: 1006370815
+      lll-Photoroom_87: -1322093293
+      lll-Photoroom_88: -1197781449
+      lll-Photoroom_9: 1265531890
+      lll-Photoroom_93: -183078600
+      lll-Photoroom_94: -1096071366
+      lll-Photoroom_95: -1416669450
+      lll-Photoroom_96: -263007061
+      lll-Photoroom_97: -692700202
+      lll-Photoroom_98: -1848026137
+      lll-Photoroom_99: 763383629
+      path_1: 845891061
+      path_10: 1771216328
+      path_11: -1946633341
+      path_12: 2048467554
+      path_2: -1040881818
+      path_3: 2101913860
+      path_4: -2005471296
+      path_5: 112982209
+      path_6: 1395476178
+      path_7: 709405023
+      path_8: 982438108
+      path_9: 5286665
+      tree_1: 187385658
+      tree_2: -1095288719
+      tree_3: 611408682
+      tree_4: 1225624425
+      tree_5: 77163048
+      tree_6: 1258663721
+      tree_7: 755529539
+      tree_8: -2119931560
+      tree_9: 1999995483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
