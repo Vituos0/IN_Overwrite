@@ -175,13 +175,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lll-Photoroom_0
+      name: yellow_terrain
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1092
-        width: 158
-        height: 217
+        x: 53
+        y: 1097
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -640,10 +640,10 @@ TextureImporter:
       name: lll-Photoroom_22
       rect:
         serializedVersion: 2
-        x: 161
-        y: 1092
-        width: 110
-        height: 110
+        x: 165
+        y: 1096
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -742,13 +742,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lll-Photoroom_27
+      name: brick_terrain
       rect:
         serializedVersion: 2
-        x: 878
-        y: 710
-        width: 446
-        height: 492
+        x: 1219
+        y: 874
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1036,7 +1036,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lll-Photoroom_41
+      name: crop_1
       rect:
         serializedVersion: 2
         x: 1997
@@ -1204,7 +1204,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lll-Photoroom_49
+      name: pile_leaf
       rect:
         serializedVersion: 2
         x: 1577
@@ -1309,7 +1309,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lll-Photoroom_54
+      name: crop_2
       rect:
         serializedVersion: 2
         x: 1842
@@ -1645,7 +1645,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lll-Photoroom_70
+      name: camfire
       rect:
         serializedVersion: 2
         x: 1714
@@ -1669,10 +1669,10 @@ TextureImporter:
       name: lll-Photoroom_71
       rect:
         serializedVersion: 2
-        x: 1846
-        y: 673
-        width: 76
-        height: 71
+        x: 1851
+        y: 674
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1687,13 +1687,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lll-Photoroom_72
+      name: pumkin_ripe
       rect:
         serializedVersion: 2
-        x: 1941
+        x: 1940
         y: 703
         width: 50
-        height: 46
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1712,7 +1712,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1999
-        y: 710
+        y: 711
         width: 52
         height: 48
       alignment: 0
@@ -1729,7 +1729,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lll-Photoroom_74
+      name: pumpkin_green
       rect:
         serializedVersion: 2
         x: 2068
@@ -2610,6 +2610,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: lll-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1231
+        width: 151
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c877e41b7cb047be4a5f535f7fbe1
+      internalID: -1939760124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2622,9 +2643,12 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       House: 34070240
+      brick_terrain: 1406362719
+      camfire: 370537435
+      crop_1: 1266717881
+      crop_2: -997221057
       house_2: 498935855
       house_3: -1037557439
-      lll-Photoroom_0: 1589319130
       lll-Photoroom_1: 1576270009
       lll-Photoroom_10: -407249981
       lll-Photoroom_100: -1129923803
@@ -2647,12 +2671,12 @@ TextureImporter:
       lll-Photoroom_19: -765299116
       lll-Photoroom_2: -1432316090
       lll-Photoroom_20: 219006645
+      lll-Photoroom_21: -1939760124
       lll-Photoroom_22: -1583876959
       lll-Photoroom_23: -238872745
       lll-Photoroom_24: 1654546811
       lll-Photoroom_25: -309576675
       lll-Photoroom_26: -1260730466
-      lll-Photoroom_27: 1406362719
       lll-Photoroom_3: -1147028803
       lll-Photoroom_33: 615772398
       lll-Photoroom_34: 1548814210
@@ -2662,19 +2686,16 @@ TextureImporter:
       lll-Photoroom_39: 260265561
       lll-Photoroom_4: -1870699429
       lll-Photoroom_40: 835854738
-      lll-Photoroom_41: 1266717881
       lll-Photoroom_42: 2135754587
       lll-Photoroom_43: 1664951721
       lll-Photoroom_44: -973921520
       lll-Photoroom_45: -159121914
       lll-Photoroom_48: -75138228
-      lll-Photoroom_49: 1008857775
       lll-Photoroom_5: -1003811396
       lll-Photoroom_50: 1045345247
       lll-Photoroom_51: 1037180633
       lll-Photoroom_52: 1306948320
       lll-Photoroom_53: 591904637
-      lll-Photoroom_54: -997221057
       lll-Photoroom_55: -744671480
       lll-Photoroom_56: -563861640
       lll-Photoroom_57: 1336588981
@@ -2692,11 +2713,8 @@ TextureImporter:
       lll-Photoroom_68: -1217507003
       lll-Photoroom_69: -1473715144
       lll-Photoroom_7: 1967209262
-      lll-Photoroom_70: 370537435
       lll-Photoroom_71: -86818543
-      lll-Photoroom_72: 159461949
       lll-Photoroom_73: 116532997
-      lll-Photoroom_74: 413020590
       lll-Photoroom_77: 1567004332
       lll-Photoroom_78: 31389212
       lll-Photoroom_79: -2081854145
@@ -2728,6 +2746,9 @@ TextureImporter:
       path_7: 709405023
       path_8: 982438108
       path_9: 5286665
+      pile_leaf: 1008857775
+      pumkin_ripe: 159461949
+      pumpkin_green: 413020590
       tree_1: 187385658
       tree_2: -1095288719
       tree_3: 611408682
@@ -2737,6 +2758,7 @@ TextureImporter:
       tree_7: 755529539
       tree_8: -2119931560
       tree_9: 1999995483
+      yellow_terrain: 1589319130
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
